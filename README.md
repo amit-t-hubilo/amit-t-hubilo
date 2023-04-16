@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amit-t-hubilo
-- 👀 I’m Engineering Manager at Hubilo ...
+- 👀 I’m Sr Engineering Manager at Hubilo ...
 - 📫 Reach me at amit_tiwari@hubilo.com (+91-8329116205)
 
 <!---
